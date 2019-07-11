@@ -4,7 +4,7 @@
   "description": "Heroku app that redirects all requests to another hostname, configured via an environment variable.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
